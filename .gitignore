@@ -1,0 +1,11 @@
+# Jangan upload environment file
+.env
+
+# Jangan upload folder dependencies
+node_modules/
+
+# Log dan cache
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.DS_Store
